@@ -11,10 +11,15 @@
 ## Tree:
 fengyundata
 |- ~~gencodes/: store gencodes gif~~
+
 |- userinfo.txt(optional): store your username/passwd
+
 |- core.py: terminal core; can run in terminal; contron panel
+
 |- fengyun.py: login/showpersoninfo
+
 |- requirements.py: auto install dependant packages
+
 
 
 ## Updates:
