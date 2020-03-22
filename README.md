@@ -18,9 +18,11 @@ fengyundata
 
 
 ## Updates:
-2020-03-20 Init
-2020-03-22 Module: log
-           Module: show person info
++ 2020-03-20
+  + Init
++ 2020-03-22 
+  + Module: log; 
+  + Module: show person info
 
 
 
