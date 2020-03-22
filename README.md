@@ -1,6 +1,3 @@
-**This is for Fengyun-4A data search, downloading(pending)**
-
-
 ## Requirements:
 + has valid account of satellite.nsmc.org
 + python3.x
