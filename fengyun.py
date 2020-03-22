@@ -121,7 +121,7 @@ class fengyun():
     
 '''
 #code = 'http://satellite.nsmc.org.cn/Portalsite/Common/GenCodeImg.aspx'
-fy = fengyun('billy31', 'billy7492/')
+fy = fengyun('username', 'passwd')
 fy.login()
 sess = fy.saveSession()
 print('Finished')
